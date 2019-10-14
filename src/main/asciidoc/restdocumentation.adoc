@@ -1,0 +1,14 @@
+== Rest convention
+== Endpoints
+=== AsciiDoctorController
+==== Get Customer by ID
+include::{snippets}/asciidoccontroller/get-customer/path-parameters.adoc[]
+===== Curl example
+include::{snippets}/asciidoccontroller/get-customer/curl-request.adoc[]
+===== HTTP Request
+include::{snippets}/asciidoccontroller/get-customer/http-request.adoc[]
+===== HTTP Response
+====== Success HTTP responses
+include::{snippets}/asciidoccontroller/get-customer/http-response.adoc[]
+====== Response fields
+include::{snippets}/asciidoccontroller/get-customer/response-fields.adoc[]

@@ -1,0 +1,3 @@
+== CloudPassage endpoints
+include::{snippets}/spring-auto-rest-docs-controller-test/get-customer-test/auto-section.adoc[]
+include::{snippets}/spring-auto-rest-docs-controller-test/create-customer-test/auto-section.adoc[]
